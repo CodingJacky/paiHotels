@@ -21,8 +21,7 @@ Also all booking information is stored in cloud , to be accessed from anywhere
   * The website will be opened automatically and it is ready to use !
   
   
-  # WWEBSITE SAMPLE IMAGES,
+  # WEBSITE SAMPLE IMAGES,
   
-  ![image](https://user-images.githubusercontent.com/91386977/158020172-cc67d70a-70a5-4ef5-a900-dbe648697d5f.png)
 
 
