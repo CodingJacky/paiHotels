@@ -1,5 +1,6 @@
 # paiHotels
-Its a hotel booking website where we can browse and book the most suitable hotel for us by using various filters
+Its a hotel booking website where we can browse and book the most suitable hotel for us by using various filters,
+Also all booking information is stored in cloud , to be accessed from anywhere
 
 # STEPS FOR EXECUTION 
 
@@ -19,4 +20,9 @@ Its a hotel booking website where we can browse and book the most suitable hotel
   * open another terminal in the extracted directory frontend and type "yarn" eafter that "yarn start"
   * The website will be opened automatically and it is ready to use !
   
+  
+  # WWEBSITE SAMPLE IMAGES,
+  
+  ![image](https://user-images.githubusercontent.com/91386977/158020172-cc67d70a-70a5-4ef5-a900-dbe648697d5f.png)
+
 
