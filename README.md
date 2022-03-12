@@ -1,5 +1,5 @@
 # Quick-Hotels
-(refer screenshots for more info)
+(refer screenshots below for more info)
 Its a hotel booking website where we can browse and book the most suitable hotel for us by using various filters,
 Also all booking information is stored in cloud , to be accessed from anywhere
 
