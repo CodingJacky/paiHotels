@@ -1,4 +1,4 @@
-# paiHotels
+# Quick-Hotels
 Its a hotel booking website where we can browse and book the most suitable hotel for us by using various filters,
 Also all booking information is stored in cloud , to be accessed from anywhere
 
