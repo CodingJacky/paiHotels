@@ -3,8 +3,12 @@
 Its a hotel booking website where we can browse and book the most suitable hotel for us by using various filters,
 Also all booking information is stored in cloud , to be accessed from anywhere
 
-# STEPS FOR EXECUTION 
+# REQUIREMENTS
+  * npm 
+  * yarn 
 
+# STEPS FOR EXECUTION 
+ 
 # Command to run backend
   * Download folders are zip and extract them
   * go to /backend directory in terminal and type "npm install" after that, "npm start"
