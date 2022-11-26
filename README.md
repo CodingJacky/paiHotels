@@ -4,8 +4,8 @@ Its a hotel booking website where we can browse and book the most suitable hotel
 Also all booking information is stored in cloud , to be accessed from anywhere
 
 # REQUIREMENTS
-  * npm 
-  * yarn 
+  * node -16.13.0
+  * yarn -1.12.17 or higher
 
 # STEPS FOR EXECUTION 
  
