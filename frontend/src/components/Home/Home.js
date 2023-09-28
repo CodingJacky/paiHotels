@@ -6,6 +6,7 @@ const Home = (props) => {
           let pr = props.quer;
           pr.find.name = "null";
           pr.find.city = vals.city;
+          if (pr.find.city !== "null") pr.find.city = pr.find.city.toUpperCase();
           props.addnsearch(vals,pr);
      }
 
