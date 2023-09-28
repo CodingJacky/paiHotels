@@ -25,6 +25,8 @@ const Find = (props) => {
           e.preventDefault();
           if(passJson.find.name === "") passJson.find.name = "null";
           if(passJson.find.city === "") passJson.find.city = "null";
+          passJson.find.name = passJson.find.name.toUpperCase();
+          passJson.find.city = passJson.find.city.toUpperCase();
           props.ultimateSearch(passJson);
      }
      
