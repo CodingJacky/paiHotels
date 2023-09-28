@@ -5,7 +5,6 @@ Also all booking information is stored in cloud , to be accessed from anywhere
 
 # REQUIREMENTS
   * node -16.13.0
-  * yarn -1.12.17 or higher
 
 # STEPS FOR EXECUTION 
  
